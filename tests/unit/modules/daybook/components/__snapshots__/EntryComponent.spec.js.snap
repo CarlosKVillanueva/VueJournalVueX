@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EntryComponent Suite Test Should match Snapshot 1`] = `
+<div class="entry-container mb-3 pointer p-2">
+  <div class="entry-title"><span class="text-success fs-5 fw-bold">13</span><span class="mx-1 fs-5">Agosto</span><span class="mx-2 fw-light">2022, Sábado</span></div>
+  <div class="entry-description">Slam Dunk, el mejor anime deportivo de la historia!!!!</div>
+</div>
+`;
